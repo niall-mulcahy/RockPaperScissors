@@ -1,0 +1,30 @@
+body {
+    display:flex; flex-direction:column; justify-content:center;
+    min-height:100vh;
+}
+
+.body-background {
+    background: grey;
+}
+
+h1 {
+    color: red;
+}
+
+.game-container {
+    height: 500px;
+    background-color: black;
+}
+
+.button-container {
+    width: 250px;
+    text-align: center;
+}
+
+#display-input {
+    font-size: large;
+}
+
+.answer-info {
+    color: white;
+}
